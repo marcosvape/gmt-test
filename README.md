@@ -44,3 +44,6 @@ By lack of time i couldn't implement async import, other video providers, the ca
 - for async import i would use spring async annotations
 - for paging and sorting i would use spring data jpa when using real DB
 - for other video providers i would use feign client to call their APIs and implement the logic to parse the metadata under the contract service ExternalVideoMetadataService.
+
+Any questions please reach out to me at:
+marcosaguiar@live.com
